@@ -4,7 +4,7 @@ This directory contains the Jupyter notebooks used for dataset preparation, mode
 
 ## Notebooks
 
-- `1_vgg.ipynb` — VGG-19 training and evaluation
+- `vgg.ipynb` — VGG-19 training and evaluation
 - `resnet.ipynb` — ResNet50 training and evaluation
 - `efficientnetb0.ipynb` — EfficientNetB0 training and evaluation
 
